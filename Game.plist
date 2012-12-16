@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Levels</key>
+	<dict>
+		<key>0</key>
+		<dict>
+			<key>Map</key>
+			<string>300000000000000000000002</string>
+			<key>Title</key>
+			<string>NEW BORN</string>
+		</dict>
+		<key>1</key>
+		<dict>
+			<key>Map</key>
+			<string>000000x3x0000x0000000002</string>
+			<key>Title</key>
+			<string>FIRST ENCOUNTER</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>Map</key>
+			<string>3000000x0x00x0x00020000x</string>
+			<key>Title</key>
+			<string>LIKE A VIRGIN</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>Map</key>
+			<string>30x20000xx0000x0x0000000</string>
+			<key>Title</key>
+			<string>PRACTICE MAKES PERFECT</string>
+		</dict>
+		<key>4</key>
+		<dict>
+			<key>Map</key>
+			<string>30x0000x0x000000000x0x02</string>
+			<key>Title</key>
+			<string>PIECE OF CAKE</string>
+		</dict>
+		<key>5</key>
+		<dict>
+			<key>Map</key>
+			<string>30x0x00x00000000x00000x2</string>
+			<key>Title</key>
+			<string>IMAGINE</string>
+		</dict>
+		<key>6</key>
+		<dict>
+			<key>Map</key>
+			<string>300xx000x00000x0x200000x</string>
+			<key>Title</key>
+			<string>BACK TO REALITY</string>
+		</dict>
+		<key>7</key>
+		<dict>
+			<key>Map</key>
+			<string>3x0000x00000020000000000</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>CROSS PASS</string>
+		</dict>
+		<key>8</key>
+		<dict>
+			<key>Map</key>
+			<string>30000000x0000x2x0000x000</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>SURROUNDED</string>
+		</dict>
+		<key>9</key>
+		<dict>
+			<key>Map</key>
+			<string>3x00xxx00000000x0000x002</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>GALILEO GALILEI</string>
+		</dict>
+		<key>10</key>
+		<dict>
+			<key>Map</key>
+			<string>30x20x00xx0000x0x0000000</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>BACK TO BASICS</string>
+		</dict>
+		<key>11</key>
+		<dict>
+			<key>Map</key>
+			<string>03x000000000000000000002</string>
+			<key>Abilities</key>
+			<string>2</string>
+			<key>MeditationString</key>
+			<string>000100110</string>
+			<key>Title</key>
+			<string>MEDITATION</string>
+		</dict>
+		<key>12</key>
+		<dict>
+			<key>Map</key>
+			<string>30000000xx0x0x0x000000x2</string>
+			<key>Abilities</key>
+			<string>2</string>
+			<key>MeditationString</key>
+			<string>000100110</string>
+			<key>Title</key>
+			<string>THE PLEASED SELF</string>
+		</dict>
+		<key>13</key>
+		<dict>
+			<key>Map</key>
+			<string>30x0x0000000x0x0x00x0020</string>
+			<key>Abilities</key>
+			<string>22</string>
+			<key>MeditationString</key>
+			<string>000100110</string>
+			<key>Title</key>
+			<string>NIRVANA</string>
+		</dict>
+		<key>14</key>
+		<dict>
+			<key>Map</key>
+			<string>30xx000x0xx00000000x0xx2</string>
+			<key>Title</key>
+			<string>LEAP OF FAITH</string>
+		</dict>
+		<key>15</key>
+		<dict>
+			<key>Map</key>
+			<string>3000x00x0x00x000x00x0x02</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>POST MORTEM</string>
+		</dict>
+		<key>16</key>
+		<dict>
+			<key>Map</key>
+			<string>3x00xxx000000x0x0000x002</string>
+			<key>Abilities</key>
+			<string>12</string>
+			<key>MeditationString</key>
+			<string>010101000</string>
+			<key>Title</key>
+			<string>REBIRTH</string>
+		</dict>
+		<key>17</key>
+		<dict>
+			<key>Map</key>
+			<string>30xx000xx0x00000000xx0x2</string>
+			<key>Abilities</key>
+			<string>11111</string>
+			<key>Title</key>
+			<string>CROSS PASS ABUSE</string>
+		</dict>
+		<key>18</key>
+		<dict>
+			<key>Map</key>
+			<string>30000000xx0x0x0x00000002</string>
+			<key>Abilities</key>
+			<string>2</string>
+			<key>MeditationString</key>
+			<string>000001011</string>
+			<key>Title</key>
+			<string>BRIGHT EYES</string>
+		</dict>
+		<key>19</key>
+		<dict>
+			<key>Map</key>
+			<string>3000xa0x0x0dx000x0cb0xx2</string>
+			<key>Title</key>
+			<string>BEAMING UP</string>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>Map</key>
+			<string>30x00a0bx0xd0xc00xx0x002</string>
+			<key>Abilities</key>
+			<string>1111</string>
+			<key>Title</key>
+			<string>A KISS</string>
+		</dict>
+		<key>21</key>
+		<dict>
+			<key>Map</key>
+			<string>300000000x000x00x2x0x0x0000x0x0000000000</string>
+			<key>Title</key>
+			<string>OH THE GREAT OUTDOORS</string>
+		</dict>
+		<key>22</key>
+		<dict>
+			<key>Map</key>
+			<string>b0x00xilcx0he0x0x0x0200xkjx000x0ad0x0xgf</string>
+			<key>Abilities</key>
+			<string>1111</string>
+			<key>Title</key>
+			<string>CONDITIONAL OPERATOR</string>
+		</dict>
+		<key>23</key>
+		<dict>
+			<key>Map</key>
+			<string>300x0000000x000000x00x000x0x00x20000000x</string>
+			<key>Title</key>
+			<string>QWERTY</string>
+		</dict>
+		<key>24</key>
+		<dict>
+			<key>Map</key>
+			<string>30000x0000x0x0x00xx0x000000x00000x0000x2</string>
+			<key>Title</key>
+			<string>NONE</string>
+		</dict>
+		<key>25</key>
+		<dict>
+			<key>Map</key>
+			<string>hex0gf000bcx000x0x0000x0x0x0x000ad000x20</string>
+			<key>Title</key>
+			<string>1986</string>
+		</dict>
+		<key>26</key>
+		<dict>
+			<key>Map</key>
+			<string>300xx2hebcxx0x0x0x0x00xgxd00000F0a0x0x00</string>
+			<key>Title</key>
+			<string>WAR NEVER CHANGES</string>
+		</dict>
+		<key>27</key>
+		<dict>
+			<key>Map</key>
+			<string>3000x00000xx00x0000x2x0000x0x0x0x0000000</string>
+			<key>Title</key>
+			<string>ISTANBUL</string>
+		</dict>
+		<key>28</key>
+		<dict>
+			<key>Map</key>
+			<string>bfjn0x0xcgkox200xx000x0xdhl0x000aeimp00x</string>
+			<key>Title</key>
+			<string>SELIN</string>
+		</dict>
+		<key>29</key>
+		<dict>
+			<key>Map</key>
+			<string>30000000000xx00000x02x000000x00x00xx0000</string>
+			<key>Abilities</key>
+			<string>2</string>
+			<key>MeditationString</key>
+			<string>000100110</string>
+			<key>Title</key>
+			<string>29</string>
+		</dict>
+		<key>30</key>
+		<dict>
+			<key>Map</key>
+			<string>300x0000000x000000x00x0x0x0x00x20000000x</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>ROT13</string>
+		</dict>
+		<key>31</key>
+		<dict>
+			<key>Map</key>
+			<string>3d00xbcnhalx00xoe2i00xjk0pm0xfx00x000g00</string>
+			<key>Title</key>
+			<string>TWISTED</string>
+		</dict>
+		<key>32</key>
+		<dict>
+			<key>Map</key>
+			<string>3000x0fg0hex0x0x00x2x0xc0dax000b0x000x00</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>FLOOD</string>
+		</dict>
+		<key>33</key>
+		<dict>
+			<key>Map</key>
+			<string>30x0000x0xx0xx0x00000x00xxx0xxx000000x20</string>
+			<key>Title</key>
+			<string>A GREAT DISTURBANCE IN THE FORCE</string>
+		</dict>
+		<key>34</key>
+		<dict>
+			<key>Map</key>
+			<string>3000x00000x0x00000xxx0x000x000x0000000x2</string>
+			<key>Title</key>
+			<string>8 IS BETTER THAN 4</string>
+		</dict>
+		<key>35</key>
+		<dict>
+			<key>Map</key>
+			<string>30000x2000x00xx0000x00x0000000x00000x000</string>
+			<key>Title</key>
+			<string>8 KINGDOMS</string>
+		</dict>
+		<key>36</key>
+		<dict>
+			<key>Map</key>
+			<string>300xxx000x0x0x0000000xx0xx0000000000x200</string>
+			<key>Title</key>
+			<string>8 SINS</string>
+		</dict>
+		<key>37</key>
+		<dict>
+			<key>Map</key>
+			<string>300xx0x2000x0000000x0000xxx0000x0x000xx0</string>
+			<key>Abilities</key>
+			<string>1</string>
+			<key>Title</key>
+			<string>I 8 PILLS</string>
+		</dict>
+		<key>38</key>
+		<dict>
+			<key>Map</key>
+			<string>3000000000x0x0000000020000x0x00000000000</string>
+			<key>Title</key>
+			<string>ROUTE 88</string>
+		</dict>
+		<key>39</key>
+		<dict>
+			<key>Map</key>
+			<string>3d0xx0jkhalxxxxxe2i0xxbcx000xxxxx00000fg</string>
+			<key>Title</key>
+			<string>COW LEVEL</string>
+		</dict>
+	</dict>
+	<key>MapValues</key>
+	<dict>
+		<key>Safe Cell</key>
+		<string>0</string>
+		<key>Mined Cell</key>
+		<string>1</string>
+		<key>Finish Point</key>
+		<string>2</string>
+		<key>Start Point</key>
+		<string>3</string>
+		<key>PORTAL A ENTRANCE</key>
+		<string>A or C</string>
+		<key>PORTAL B ENTRANCE</key>
+		<string>E or G</string>
+		<key>PORTAL C ENTRANCE</key>
+		<string>I or K</string>
+		<key>PORTAL D ENTRANCE</key>
+		<string>M or O</string>
+		<key>PORTAL A EXIT</key>
+		<string>B or D</string>
+		<key>PORTAL B EXIT</key>
+		<string>F or H</string>
+		<key>PORTAL C EXIT</key>
+		<string>J or L</string>
+		<key>PORTAL D EXIT</key>
+		<string>N or P</string>
+	</dict>
+	<key>DifficultyDictionary</key>
+	<dict>
+		<key>Easy</key>
+		<dict>
+			<key>MINE_COUNT_FADE_OUT_DURATION</key>
+			<integer>600</integer>
+		</dict>
+		<key>Normal</key>
+		<dict>
+			<key>MINE_COUNT_FADE_OUT_DURATION</key>
+			<integer>30</integer>
+		</dict>
+		<key>Hard</key>
+		<dict>
+			<key>MINE_COUNT_FADE_OUT_DURATION</key>
+			<integer>3</integer>
+		</dict>
+		<key>Nightmare</key>
+		<dict>
+			<key>MINE_COUNT_FADE_OUT_DURATION</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
